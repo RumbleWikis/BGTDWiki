@@ -1,0 +1,17 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.config": "./tsconfig.json",
+  "stylelint.validate": [
+      "css",
+      "sass",
+      "scss"
+  ],
+  "css.validate": false, // Stop built-in validators
+  "scss.validate": false, // Stop built-in validators
+  "wikitext.host": "bubble-gum-simulator.fandom.com",
+  "wikitext.apiPath": "/api.php",
+  "wikitext.articlePath": "/wiki/",
+  "wikitext.getCss": true,
+  "Lua.runtime.version": "Lua 5.1"
+}
