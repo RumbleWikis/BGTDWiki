@@ -9,9 +9,10 @@
   ],
   "css.validate": false, // Stop built-in validators
   "scss.validate": false, // Stop built-in validators
-  "wikitext.host": "bubble-gum-simulator.fandom.com",
+  "wikitext.host": "bubble-gum-tower-defense.fandom.com",
   "wikitext.apiPath": "/api.php",
   "wikitext.articlePath": "/wiki/",
   "wikitext.getCss": true,
+  "wikitext.enableJavascript": true,
   "Lua.runtime.version": "Lua 5.1"
 }

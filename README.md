@@ -48,6 +48,14 @@ Scripts and style sheets will be compiled and renamed to their `.js` and `.css` 
 ## Contributing
 All contributions are welcome, as long as they follow [Fandom's Terms of Use](//www.fandom.com/terms-of-use), and [Bubble Gum Tower Defense Wiki's policies](//bubble-gum-tower-defense.fandom.com/wiki/Bubble_Gum_Tower_Defense_Wiki:Rules_and_Policies).
 
+### Prerequisites for the WikiPages CLI
+1. Install NodeJs (https://nodejs.org/en/)
+2. Install @rumblewikis/wikipages-deno-bundler-middleware (`npm i @rumblewikis/wikipages-deno-bundler-middleware`)
+3. Install @rumblewikis/wikipages-sass-compiler-middleware (`npm i @rumblewikis/wikipages-sass-compiler-middleware`)
+4. Install dotenv (`npm i dotenv`)
+4. Install the WikiPages CLI (`npm i -g @rumblewikis/wikipages`)
+5. Try out the CLI `wikipages check`
+
 ### Recommended Visual Studio Code Extensions
 * [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) by denoland
   * Deno support and lint
