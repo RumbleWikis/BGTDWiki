@@ -13,15 +13,13 @@ module.exports = {
   },
   path: {
     srcDirectory: "src/pages",
-    cacheFile: "bgtdwiki-cache.json",
-    namespaceMappings: {
-      Bobux: "Module"
-    }
+    cacheFile: "bgtdwiki-cache.json"
   },
   middlewares: [denoBundlerMiddleware, sassCompilerMiddleware],
   middlewareSettings: {
     denoBundler: {
-      useBabel: true
+      useBabel: true,
+      parameters: ["--no-check", "--config=tsconfig.json"] // use --no-check here because Deno does not like the DOM types
     }
   }
 }
