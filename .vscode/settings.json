@@ -3,12 +3,13 @@
   "deno.lint": true,
   "deno.config": "./tsconfig.json",
   /*"stylelint.validate": [
-      //"css",
-      //"sass",
-      //"scss" 
+      "css",
+      "sass",
+      "scss" 
   ],
   "css.validate": false, // Stop built-in validators
-  "scss.validate": false, // Stop built-in validators*/
+  "scss.validate": false, // Stop built-in validators
+  */
   // Please see https://github.com/stylelint/stylelint/issues/4711 on why StyleLint is disabled on this project
   "wikitext.host": "bubble-gum-tower-defense.fandom.com",
   "wikitext.apiPath": "/api.php",
