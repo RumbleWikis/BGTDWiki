@@ -30,7 +30,7 @@ Note that files such as ImportJS <b>do not</b> have their own extension.
 * Scripts 
   * `.js`, `.jsx`, `.ts`, `.tsx`
 * Stylesheets
-  *  `.css`, `.sass`
+  *  `.css`, `.scss`, `.sass`
 * Modules
   * `.lua`
 * Wikitext
