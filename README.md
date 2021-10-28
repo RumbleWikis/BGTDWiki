@@ -15,11 +15,11 @@
 This repository exists solely to allow contributors to pull request, or occasionally create issues to contribute to protected pages on the Wiki.
 
 ## Dependencies
-* [WikiPages](//github.com/RumbleWikis/WikiPages)
+* [WikiPages](//github.com/MetaWikis/WikiPages)
   * Deployment to the wiki, and page resolution
-* [WikiPages-SASS-Compiler-Middleware](//github.com/RumbleWikis/WikiPages-Middleware)
+* [WikiPages-SASS-Compiler-Middleware](//github.com/MetaWikis/WikiPages-Middleware)
   * Compiles SASS/SCSS for WikiPages
-* [WikiPages-Deno-Bundlerr-Middleware](//github.com/RumbleWikis/WikiPages-Middleware)
+* [WikiPages-Deno-Bundlerr-Middleware](//github.com/MetaWikis/WikiPages-Middleware)
   * Bundles TS/TSX/JS/JSX for WikiPages
 
 ## Deployment
@@ -38,7 +38,7 @@ Note that files such as ImportJS <b>do not</b> have their own extension.
     * Generally, `.wikitext` is not a valid extension and is only used for syntax highlighting for text editing
 
 ### Path Resolving
-Please see [here](//github.com/RumbleWikis/WikiPages#path-resolving) for more information.
+Please see [here](//github.com/MetaWikis/WikiPages#path-resolving) for more information.
 
 ### Compilation
 Scripts and style sheets will be compiled and renamed to their `.js` and `.css` extensions respectively.
