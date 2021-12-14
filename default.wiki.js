@@ -19,7 +19,7 @@ module.exports = {
   middlewareSettings: {
     denoBundler: {
       useBabel: true,
-      parameters: ["--no-check", "--config=tsconfig.json"] // use --no-check here because Deno does not like the DOM types
+      parameters: ["--no-check", "--import-map=import_map.json", "--config=deno.jsonc"] // use --no-check here
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "lib": ["DOM", "ESNext"],
-    "jsxFactory": "createElement",
+    "jsxFactory": "JSX.createElement",
     // We'd rather use a string to identify a fragment sent through jsxFactory instead of 
     // creating another entire function just for fragments.
-    "jsxFragmentFactory": "\"fragment\""
+    "jsxFragmentFactory": "JSX.createFragment"
   }
 }
