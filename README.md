@@ -63,7 +63,8 @@ All contributions are welcome, as long as they follow [Fandom's Terms of Use](ht
   * Wikitext syntax highlighting
 * [SASS](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented) by Syler
   * SASS syntax highlighting
-* ~~[vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) by Stylelint~~
-  * ~~Better style lint/validators~~
 * [lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) by sumneko
   * For everything cool in Lua
+
+### JetBrains Editors
+The project contains an `.idea` folder for JetBrains IDEs. We do not recommend using a JetBrains IDE for this project as Deno support is still very "experimental", bad Lua support (via Plugins), and Wikitext support (via Plugins) is also bad.
