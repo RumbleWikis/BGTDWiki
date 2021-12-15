@@ -67,7 +67,7 @@ All contributions are welcome, as long as they follow [Fandom's Terms of Use](ht
   * For everything cool in Lua
 
 ### JetBrains Editors
-The project contains an `.idea` folder for JetBrains IDEs. Currently experimental.
+The project contains an `.idea` folder for JetBrains IDEs. At the moment experimental.
 
 ### JetBrains Plugins
 * [Deno](https://plugins.jetbrains.com/plugin/14382-deno) by JetBrains s.r.c.
