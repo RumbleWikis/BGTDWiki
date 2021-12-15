@@ -67,4 +67,10 @@ All contributions are welcome, as long as they follow [Fandom's Terms of Use](ht
   * For everything cool in Lua
 
 ### JetBrains Editors
-The project contains an `.idea` folder for JetBrains IDEs. We do not recommend using a JetBrains IDE for this project as Deno support is still very "experimental", bad Lua support (via Plugins), and Wikitext support (via Plugins) is also bad.
+The project contains an `.idea` folder for JetBrains IDEs. Currently experimental.
+
+### JetBrains Plugins
+* [Deno](https://plugins.jetbrains.com/plugin/14382-deno) by JetBrains s.r.c.
+  * Deno support and lint
+* [EmmyLua](https://plugins.jetbrains.com/plugin/9768-emmylua) by tangzx
+  * For everything cool in Lua

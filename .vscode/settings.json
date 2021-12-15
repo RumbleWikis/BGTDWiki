@@ -8,5 +8,6 @@
   "wikitext.articlePath": "/wiki/",
   "wikitext.getCss": true,
   "wikitext.enableJavascript": true,
-  "Lua.runtime.version": "Lua 5.1"
+  "Lua.runtime.version": "Lua 5.1",
+  "rpc.enabled": false
 }
