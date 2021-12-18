@@ -1,5 +1,5 @@
 --[[
-    This file exists to manipulate lua-language-server for intellisense (globally)
+    This file exists for project-scope Scribunto types.
 
     DO NOT REQUIRE!
 
