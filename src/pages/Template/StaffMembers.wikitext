@@ -1,0 +1,42 @@
+{{header|Bureaucrats}}
+{{StaffBox
+|image=https://static.wikia.nocookie.net/fa1f1ee2-89b8-45fb-83eb-91d643542671/scale-to-width-down/120#.png
+|user=IAmaPersonthatExists
+|team=technical
+|name=Exists
+|discordid=640224786366201856
+|description=
+|ncd=wf
+|month=7
+|year=2021
+|width=100%}}
+{{StaffBox
+|image=https://static.wikia.nocookie.net/a2dfe391-acd0-4c2f-8aab-d464679ef8f2/scale-to-width-down/120#.png
+|user=TotallyNotJullian
+|team=technical
+|discordid=198135885118570497
+|description=
+|ncd=bu
+|month=7
+|year=2021
+|width=100%}}
+{{StaffBox
+|image=https://static.wikia.nocookie.net/4d454c37-4e99-4f40-b3d1-71e57c87d83e/scale-to-width-down/120#.png
+|user=Beckaaa
+|team=content
+|discordid=256187890495782912
+|description=
+|ncd=bu
+|month=7
+|year=2021
+|width=100%}}
+{{header|Administrators}}
+{{header|Content Moderators}}
+{{header|Discussion Moderators}}
+{{header|Bots}}
+{{StaffBox
+|image=https://static.wikia.nocookie.net/d81bbf17-9f4e-4991-abbc-60487d4918a5/scale-to-width-down/120#.png
+|user=IAmaBotthatExists
+|description=[[User:IAmaBotthatExists|IAmaBotthatExists]] is a bot operated by [[User:IAmaPersonthatExists|IAmaPersonthatExists]] used for discussions automoderation & occasional maintenance tasks.
+|width=100%}}
+<noinclude>[[Category:Non-article templates]]</noinclude>

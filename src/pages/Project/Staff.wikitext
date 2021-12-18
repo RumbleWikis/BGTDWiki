@@ -1,0 +1,8 @@
+{{DISPLAYTITLE:Wiki Staff}}{{shortcuts|[[BGTDW:WS]]<br>[[BGTDW:STAFF]]}}<center>These are the current staff members of the [[Bubble Gum Tower Defense Wiki]].
+
+'''All''' administrators have the authority to punish a user as they see fit and have the capability to perform a local [[w:Help:Blocking|block]].
+
+'''All''' staff members are required to follow the [[Community:Rules|Rules]].</center>
+{{StaffMembers}}
+__NOEDITSECTION__
+[[Category:Bubble Gum Tower Defense Wiki]]

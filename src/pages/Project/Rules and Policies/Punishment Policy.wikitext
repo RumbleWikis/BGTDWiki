@@ -1,0 +1,68 @@
+<center>
+<br />
+<noinclude>{{RulesAndPoliciesNavigation}}</noinclude>
+
+{{FrameSquare|color = db0f4d|content= The '''punishment policy''' is a set of standards that [[Project:Staff|Staff Members]] should determine block lengths with.}}
+</center>
+
+Reasons for warnings include:
+* Inserting false information
+* Spamming or flooding comments or discussions
+* Incorrect categorization for Discussion post
+* Constant arguing
+* Harassment
+* Begging
+* External site links to unknown sites
+* Unnecessary edits to articles
+
+{|class="article-table"
+! Length
+! Reasons
+|-
+! colspan=2 | Low Severity
+|-
+|3 days
+|Multiple warnings within the past 3 months OR
+* Minor vandalism
+* Editing another users page without consent
+* Creating useless, irrelevant, or not-notable articles
+* Foreign language
+* Creating posts with the purpose of soliciting upvotes or spam comments 
+* Lying about having certain inventory items in-game
+|-
+|1 week
+|Multiple 3-day blocks OR
+* Advertising
+* Inappropriate comments
+* Toxicity
+* Minor impersonation
+* Hosting giveaway(s)
+|-
+! colspan=2 | Medium Severity
+|-
+|1 month
+|Multiple 1-week blocks OR
+* Attempted scamming
+* Discussing politics
+* Homophobia or racism
+|-
+! colspan=2 | High Severity
+|-
+|2 months
+|Multiple 1-month blocks OR
+* Cross-trading
+|-
+! colspan=2 | Highest Severity
+|-
+|Indefinite
+|Multiple 2-month blocks OR
+* Sockpuppetry
+* Major impersonation
+* Block evasion
+* Major vandalism
+* Planning to do raids on other platforms or wikis
+* Scamming
+* External site links to pornographic or scamming sites
+|}
+
+<big>'''LAST UPDATED: December 17th, 2021'''</big>

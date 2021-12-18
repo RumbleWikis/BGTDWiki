@@ -1,0 +1,23 @@
+<center>
+<br />
+<noinclude>{{RulesAndPoliciesNavigation}}</noinclude>
+
+{{FrameSquare|color = db0f4d|content= The '''discussions policy''' is a set of standards that '''ALL''' users must comply to while on the Bubble Gum Tower Defense Wiki.<br />
+[https://www.fandom.com/terms-of-use Fandom's Terms of Use] applies '''''globally'''''.}}
+</center>
+
+While using discussions, users are required to:
+
+* Follow '''all''' other wiki policies
+
+* Create posts in the '''correct''' catgeories;
+** Discussion about the wiki and experience belong in the "General" category;
+** All other posts belong in their respective categories.
+
+* Strictly create posts that are '''on-topic''' related to the category;
+
+* '''Not''' create posts with the purpose of soliciting upvotes or spam comments;
+
+* Speak in '''English''' for comments and discussions;
+
+<big>'''LAST UPDATED: December 17th, 2021'''</big>
