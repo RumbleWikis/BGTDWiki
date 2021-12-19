@@ -21,7 +21,7 @@ local Settings = {}
 ---@type function<GenerateRobloxItemUrlModule>
 Settings.GetGenerateRobloxItemUrl = LoadModule("Module:Utils/GenerateRobloxItemUrl", true)
 
--- Data values (string | number | boolean)
+-- Data values (string | number | boolean | table)
 Settings.RobloxUrl = "https://www.roblox.com"
 Settings.RobloxItemTypeToItemTypeInUrl = {
     Bundle = "bundles",
