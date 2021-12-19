@@ -1,1 +1,1 @@
-[https://www.roblox.com/game-pass/{{{1}}} {{{2}}}]
+[{{#invoke:Module:Utils/GetRobloxItemUrl|GetRobloxItemUrl|Pass|{{{1}}}}} {{{2}}}]

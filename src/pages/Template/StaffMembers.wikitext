@@ -39,4 +39,7 @@
 |user=IAmaBotthatExists
 |description=[[User:IAmaBotthatExists|IAmaBotthatExists]] is a bot operated by [[User:IAmaPersonthatExists|IAmaPersonthatExists]] used for discussions automoderation & occasional maintenance tasks.
 |width=100%}}
-<noinclude>[[Category:Non-article templates]]</noinclude>
+<noinclude>
+[[Category:Templates]]
+[[Category:Non-article templates]]
+</noinclude>
