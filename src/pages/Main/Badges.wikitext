@@ -1,0 +1,53 @@
+== List of Badges ==
+
+=== Victory Badges ===
+{| class="article-table sortable" width="100%"
+!Name
+! class="unsortable" | Description
+! class="unsortable" | Image
+|-
+!{{RLinkBadge|2124883113|First Victory}}
+|Win a game of Bubble Gum Tower Defense!
+|[[File:First Victory.png|50px]]
+|-
+!{{RLinkBadge|2124883114|On a Roll!}}
+|You've won 5 games of Bubble Gum Tower Defense, keep it up!
+|[[File:On a Roll!.png|50px]]
+|-
+!{{RLinkBadge|2124883115|Path to Greatness}}
+|You've won 25 games of Bubble Gum Tower Defense. You're unstoppable!
+|[[File:Path to Greatness.png|50px]]
+|-
+!{{RLinkBadge|2124883116|GG EZ}}
+|Wow! You've 100 games of Bubble Gum Tower Defense. GG!
+|[[File:GG EZ.png|50px]]
+|}
+
+=== Bubble Popping Badges ===
+{| class="article-table sortable" width="100%"
+!Name
+! class="unsortable" | Description
+! class="unsortable" | Image
+|-
+!{{RLinkBadge|2124883117|Beginner Bubbler}}
+|Keep popping those bubbles!
+|[[File:Beginner Bubbler.png|50px]]
+|-
+!{{RLinkBadge|2124883118|Novice Bubbler}}
+|You're becoming a bubble popping machine!
+|[[File:Novice Bubbler.png|50px]]
+|-
+!{{RLinkBadge|2124883119|Advanced Bubbler}}
+|That's a lot of bubbles popped, good job!
+|[[File:Advanced Bubbler.png|50px]]
+|-
+!{{RLinkBadge|2124883120|Bubble Ninja}}
+|All bubbles fear your bubble popping skills.
+|[[File:Bubble Ninja.png|50px]]
+|-
+!{{RLinkBadge|2124883121|Bubble Sensei}}
+|You are a true sensei in the art of Bubble Popping!
+|[[File:Bubble Sensei.png|50px]]
+|}
+
+[[Category:Miscellaneous]]
