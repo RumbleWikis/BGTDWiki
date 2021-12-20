@@ -50,4 +50,51 @@
 |[[File:Bubble Sensei.png|50px]]
 |}
 
+=== Gem Collecting Badges ===
+{| class="article-table sortable" width="100%"
+!Name
+! class="unsortable" | Description
+! class="unsortable" | Image
+|-
+!{{RLinkBadge|2124883122|Gem Collector}}
+|You've earned 1,000 gems! Quite a collection.
+|[[File:Gem Collector.png|50px]]
+|-
+!{{RLinkBadge|2124883123|Gem Connoisseur}}
+|You've earned 5,000 gems. You've become quite a gem connoisseur!
+|[[File:Gem Connoisseur.png|50px]]
+|-
+!{{RLinkBadge|2124883124|Gem Hoarder}}
+|Wow! You've earned over 15,000 gems. That's a lot!
+|[[File:Gem Hoarder.png|50px]]
+|-
+!{{RLinkBadge|2124883125|Gem Madness}}
+|You've earned over 50,000 gems! Your pockets must be overflowing.
+|[[File:Gem Madness.png|50px]]
+|}
+
+=== Play Time Badges ===
+{| class="article-table sortable" width="100%"
+!Name
+! class="unsortable" | Description
+! class="unsortable" | Image
+|-
+!{{RLinkBadge|2124883126|Play 1 Hour}}
+|You've played Bubble Gum Tower Defense for 1 hour!
+|[[File:Play 1 Hour.png|50px]]
+|-
+!{{RLinkBadge|2124883127|Play 5 Hours}}
+|You've played Bubble Gum Tower Defense for 5 hours!
+|[[File:Play 5 Hours.png|50px]]
+|-
+!{{RLinkBadge|2124883128|Play 10 Hours}}
+|You've played Bubble Gum Tower Defense for 10 hours!
+|[[File:Play 10 Hours.png|50px]]
+|-
+!{{RLinkBadge|2124883129|Play 50 Hours}}
+|You've played Bubble Gum Tower Defense for 50 hours!
+|[[File:Play 50 Hours.png|50px]]
+|}
+
+
 [[Category:Miscellaneous]]
