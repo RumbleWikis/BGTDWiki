@@ -10,42 +10,42 @@ These are the following [https://www.roblox.com/games/6493464871/#!/store passes
 |-
 !{{RLinkGP|26191714|Pack Luck}}
 |Increases chance of Very Rare and Legendary Pets by 2x. You're also more likely to get Shiny and Chroma pets!
-|Unknown {{Robux}}
+|499 {{Robux}}
 |[[File:Pack Luck.png|50px]]
 |-
 !{{RLinkGP|26191702|VIP Access}}
 |VIP Pass Holders gain:<br />- Exclusive Chat Tag<br />- 25% More XP<br />- 2x Daily Rewards<br />And more soon...
-|Unknown {{Robux}}
+|349 {{Robux}}
 |[[File:VIP Access.png|50px]]
 |-
 !{{RLinkGP|26191730|Double Cash}}
 |Earn double the cash during your matches!<br />Works in every game mode but Impossible Mode.
-|Unknown {{Robux}}
+|1399 {{Robux}}
 |[[File:Double Cash.png|50px]]
 |-
 !{{RLinkGP|26191711|More XP}}
 |Earn 75% more XP! Stacks with VIP Access pass.
-|Unknown {{Robux}}
+|349 {{Robux}}
 |[[File:More XP.png|50px]]
 |-
 !{{RLinkGP|26191129|Unlock All}}
 |Tired of having to level up to unlock your towers and upgrades? Unlock them all instantly!<br />Works on future towers.
-|Unknown {{Robux}}
+|799 {{Robux}}
 |[[File:Unlock All.png|50px]]
 |-
 !{{RLinkGP|26191726|Double Gems}}
 |Earn double the amount of gems!
-|Unknown {{Robux}}
+|549 {{Robux}}
 |[[File:Double Gems.png|50px]]
 |-
 !{{RLinkGP|26191733|UI Color}}
 |This allows you to change the color of your UI in the game settings.
-|Unknown {{Robux}}
+|49 {{Robux}}
 |[[File:UI Color.png|50px]]
 |-
 !{{RLinkGP|26191719|Extra Cards}}
 |Get 2 extra cards in every pack you open!
-|Unknown {{Robux}}
+|499 {{Robux}}
 |[[File:Extra Cards.png|50px]]
 |}
 
