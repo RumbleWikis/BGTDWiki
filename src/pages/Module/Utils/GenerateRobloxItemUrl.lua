@@ -7,7 +7,7 @@ local Settings = mw.loadData("Module:Settings")
 ---Format a name for an item URL for SEO purposes.
 ---@param name string
 ---@return string
-function Module.FormatRobloxItemNameForSeo(name)
+function Module._FormatRobloxItemNameForSeo(name)
     local NewName = name:gsub("'", ""):gsub("%W", "-"):gsub("^-+", ""):gsub("-+$", "")
 
     local LowerCaseName = NewName:lower()
@@ -18,20 +18,27 @@ function Module.FormatRobloxItemNameForSeo(name)
     return NewName
 end
 
----Get an item URL by it's itemType and itemId.
+---Get an item URL by it's itemType and itemId. If `itemName` is given, it will transform the name into SEO-appropriate.
 ---@param itemType "Bundle" | "DevelopAsset" | "AvatarAsset" | "PlaceAsset" | "Badge" | "Pass"
 ---@param itemId number
 ---@param itemName number | void
 ---@return string
-function Module.GenerateRobloxItemUrl(itemType, itemId, itemName)
+function Module._GenerateRobloxItemUrl(itemType, itemId, itemName)
     local ItemTypeInUrl = Settings.RobloxItemTypeToItemTypeInUrl[itemType] or "library"
     local ItemUrl = ("%s/%s/%s"):format(Settings.RobloxUrl, ItemTypeInUrl, itemId)
 
     if itemName ~= nil then
-        ItemUrl = ("%s/%s"):format(ItemUrl, Module.FormatRobloxItemNameForSeo(itemName))
+        ItemUrl = ("%s/%s"):format(ItemUrl, Module._FormatRobloxItemNameForSeo(itemName))
     end
 
     return ItemUrl
+end
+
+---Get an item URL by it's itemType and itemId. If `itemName` is given, it will transform the name into SEO-appropriate.
+---@param frame Frame
+---@return string
+function Module.GenerateRobloxItemUrl(frame)
+    return Module._GenerateRobloxItemUrl(frame.args[1], frame.args[2], frame.args[3])
 end
 
 return Module
