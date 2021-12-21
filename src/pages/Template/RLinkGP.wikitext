@@ -1,1 +1,1 @@
-[{{#invoke:Module:Utils/GenerateRobloxItemUrl|GenerateRobloxItemUrl|Pass|{{{1}}}}} {{{2}}}]
+[{{#invoke:Utils/GenerateRobloxItemUrl|GenerateRobloxItemUrl|Pass|{{{1}}}}} {{{2}}}]

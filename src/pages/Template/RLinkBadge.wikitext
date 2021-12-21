@@ -1,1 +1,1 @@
-[{{#invoke:Module:Utils/GenerateRobloxItemUrl|GenerateRobloxItemUrl|Badge|{{{1}}}}} {{{2}}}]
+[{{#invoke:Utils/GenerateRobloxItemUrl|GenerateRobloxItemUrl|Badge|{{{1}}}}} {{{2}}}]
