@@ -1,0 +1,1 @@
+<div class="frame" style="padding: 10px; margin: 10px; box-shadow: -6px 0px 0px 0px #{{{color}}};">{{{content}}}</div>

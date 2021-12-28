@@ -1,0 +1,4 @@
+/* Invert Robux icon on dark mode. The icon is black on Light mode. */
+.theme-fandomdesktop-dark .robux {
+  filter: invert(1);
+}

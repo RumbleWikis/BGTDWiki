@@ -1,0 +1,1 @@
+<div class="frame-square" style="padding: 10px;  margin: 10px; border-radius: 5px; border: 4px solid #{{{color}}};">{{{content}}}</div>
